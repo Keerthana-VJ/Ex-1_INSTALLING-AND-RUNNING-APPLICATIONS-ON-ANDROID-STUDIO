@@ -1,7 +1,7 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
 even_term_ii_2025-26
-## NAME: Keerthana V
-## Register number: 212223220045
+## NAME: KEERTHANA V
+## REG NO: 212223220045
 
 # Android Studio Installation and Running Applications
 
